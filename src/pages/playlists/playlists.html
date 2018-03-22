@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-navbar color="topMenu">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Playlists</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <div class="user" (click)="goToPerfilDetalle(user, playlists)">
+    <img src="{{ user.picture }}">
+    <h1>{{ user.name }}</h1>
+  </div>
+
+  <ion-list ion-row>
+
+    <ion-item ion-col col-12 col-sm-6 col-md-4 (click)="goToCanciones(p)" *ngFor="let p of playlists">
+      <ion-thumbnail item-left>
+        <img src="{{ p.picture }}">
+      </ion-thumbnail>
+      <h2>{{ p.title }}</h2>
+      <p>{{ p.nb_tracks }} Canciones</p>
+    </ion-item>
+
+  </ion-list>
+
+</ion-content>

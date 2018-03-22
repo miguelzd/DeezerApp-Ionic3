@@ -1,0 +1,54 @@
+<!--
+  Generated template for the Contacto page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar color="topMenu">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Contacto</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <form ion-grid fixed>
+    <h1>Contactenos</h1>
+    <p>Envianos tu ID/Perfil de Deezer si deseas aparecer en la lista de la app.</p>
+    <ion-list ion-row>
+      <ion-item ion-col col-12 col-sm-6>
+        <ion-label floating>ID Deezer Perfil (solo ID)</ion-label>
+        <ion-input type="text" name="deezerID" clearInput="true"></ion-input>
+      </ion-item>
+
+      <ion-item  ion-col col-12 col-sm-6>
+        <ion-label floating>Correo</ion-label>
+        <ion-input type="email" name="email" clearInput="true"></ion-input>
+      </ion-item>
+
+      <ion-item ion-col col-12>
+        <ion-label floating>Comentario</ion-label>
+        <ion-textarea name="comentario"></ion-textarea>
+      </ion-item>
+
+      <ion-item ion-col col-12>
+        <ion-label>No Soy un robot</ion-label>
+        <ion-checkbox required></ion-checkbox>
+      </ion-item>
+    </ion-list>
+
+    <div ion-col col-12 text-center>
+      <button type="submit" ion-button icon-left (click)="enviar()">
+        <ion-icon name="send"></ion-icon>
+        Enviar
+      </button>
+    </div>
+  </form>
+
+
+
+</ion-content>
