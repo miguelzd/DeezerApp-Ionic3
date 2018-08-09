@@ -30,7 +30,7 @@ $colors: (
   light:         #f4f4f4,
   dark:          #222,
   wet_asphalt:   #34495e,
-  midnight_blue: #2c3e50,
+  midnight_blue: #a6b7c9,
   topMenu:       #20232c
 );
 
@@ -63,7 +63,7 @@ $colors: (
 // so that the above variables are used and Ionic's
 // default are overridden.
 
-@import "ionic.theme.default";
+@import "ionic.theme.dark";
 
 
 // Ionicons

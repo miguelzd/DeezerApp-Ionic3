@@ -1,20 +1,36 @@
-# DeezerApp - Ionic 3
+<p align="center">
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/demo-Deezer-ionic.png" width="1150" alt="demo-Deezer-ionic">
+</p>
+
+# DeezerApp - Ionic 3.1
 ----
 
-[![Curso Basico Ionic 2](https://img.youtube.com/vi/9g1DYv25-w4/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLa8OODhatbXa5DtBZz5dGhvKkt2zPHg01)
+Aplicación demo de Música Ionic 3, que se conecta al API de Deezer y reproduce las playlist de los usuario.
 
-## Instalacion 
+Detalles de versión 
+
+	Ionic Framework: 3.1.1
+	Ionic App Scripts: 1.3.4
+	Angular Core: 4.0.2
+	Angular Compiler CLI: 4.0.2
+	Node: 8.10.0
+	OS Platform: macOS High Sierra
+	Navigator Platform: MacIntel
+	User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 	(KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+
+
+## Instalación 
 1. Teniendo instalado nodejs en la consola ejecutas
 ```sh
 > npm install -g ionic cordova
 ```
 2. Con la consola abierta en la carpeta donde deseas trabajar ejecuta
 ```sh
-> git clone https://github.com/tecnosoftware/Curso-Ionic2.git
+> git clone https://github.com/miguelzd/DeezerApp-Ionic3.git
 ```
-3. Luego de moverte al proyecto instalas todas las dependencias
+3. Luego debes moverte al directorio del proyecto e instalas todas las dependencias
 ```sh
-> cd Curso-Ionic2
+> cd DeezerApp-Ionic3
 > npm install
 ```
 
@@ -24,18 +40,76 @@
 ```sh
 > ionic serve
 ```
-* Ionic Cli
+* Comandos Ionic CLI
 ```sh
 > ionic g page NombrePagina
 > ionic g component NombreComponente
 > ionic g provider NombreProvider
 ```
 
-## Otros de nuestros cursos
-* [Firebase](https://goo.gl/KBz7TT)
-* [Rails](https://goo.gl/1xgi22)
-* [Bootstrap 4](https://goo.gl/Z05mvW)
+## Screenshots
 
-## NuesVisitame en las Redes sociales
-[![2.1](http://i.imgur.com/01PvPQ3.png)](https://www.facebook.com/TecnoSoftwareEs/?fref=ts)
-[![2.1](http://i.imgur.com/CBDSp4C.png)](https://www.youtube.com/channel/UCvA6w-hX64We5oZjWk365RQ)
+#### Home
+
+<p>
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-home.png" width="150" alt="home">
+</p>
+
+#### Menu
+
+<p>
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-menu.png" width="150" alt="menu">
+</p>
+
+#### Users
+
+<p>
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-profiles.png" width="150" alt="profiles">
+</p>
+
+
+#### User Profile
+
+<p>
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-user-profile.png" width="150" alt="user-profile">
+</p>
+
+#### User Playlists
+
+<p>
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-playlist-1.png" width="150" alt="playlist-1">
+
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-playlist-2.png" width="150" alt="playlist-2">
+
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-playlist-3.png" width="150" alt="playlist-3">
+</p>
+
+#### Contact Form
+
+<p>
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-contact.png" width="150" alt="contact">
+</p>
+
+#### About
+
+<p>
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-about.png" width="150" alt="about">
+</p>
+
+#### Tablet - Responsive
+
+<p>
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-tablet.png" width="300" alt="tablet">
+</p>
+
+# About Ionic
+
+[Ionic](https://ionicframework.com/) is the open-source mobile app development framework that makes it easy to
+build top quality native and progressive web apps with web technologies.
+
+Ionic is based on [Web Components](https://www.webcomponents.org/introduction) and comes with many significant performance, usability, and feature improvements over the past versions.
+
+
+<p align="center">
+<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/demo-Deezer-ionic.png" width="1280" alt="demo-Deezer-ionic">
+</p>

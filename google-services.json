@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "409972097467",
+    "firebase_url": "https://eezerapp-2c485.firebaseio.com",
+    "project_id": "eezerapp-2c485",
+    "storage_bucket": "eezerapp-2c485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409972097467:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409972097467-grvibjg7rlfpon4ti9fgshta6atporti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk9mZ5jm799yY663MEsdv5v0PKmHaptdo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

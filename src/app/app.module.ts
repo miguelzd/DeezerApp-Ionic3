@@ -21,6 +21,7 @@ import { CancionesPage } from '../pages/canciones/canciones';
 import { CancionPopoverPage } from '../pages/cancion-popover/cancion-popover'
 
 import { TecnoPlayerComponent } from '../components/tecno-player/tecno-player';
+import { Push } from '@ionic-native/push';
 
 @NgModule({
   declarations: [
@@ -61,7 +62,7 @@ import { TecnoPlayerComponent } from '../components/tecno-player/tecno-player';
   ],
   providers: [
     StatusBar,
-    SplashScreen,
+    SplashScreen,Push,
     { provide: ErrorHandler, useClass: IonicErrorHandler }
   ]
 })

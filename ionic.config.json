@@ -7,6 +7,8 @@
       "proxyUrl": "http://api.deezer.com/"
     }
   ],
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }

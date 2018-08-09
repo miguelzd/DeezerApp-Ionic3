@@ -8,8 +8,8 @@ export class DeezerService {
   public deezerAPI: string;
 
   constructor(public http: Http) {
-    // this.deezerAPI = "https://api.deezer.com/";
-    this.deezerAPI = "/deezerAPI/";
+    this.deezerAPI = "https://api.deezer.com/";
+    // this.deezerAPI = "/deezerAPI/";
   }
 
   getUsers(){
