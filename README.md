@@ -42,7 +42,8 @@ NOTA: CORS "Cross Origin Resource Sharing" Allows to you request any site with a
 IMPORTANTE: agrega la direccion de la API en la extencion de CORS http://api.deezer.com/ y mantenerla habilitala durante las pruebas de desarrollo.
 
 <p>
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors.png" width="250" alt="cors">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors.png" width="380" alt="cors">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors-2.png" width="650" alt="cors">
 </p>
 
 ## Comandos comunes 
