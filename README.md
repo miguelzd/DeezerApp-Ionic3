@@ -35,6 +35,15 @@ Detalles de versión
 > cd DeezerApp-Ionic3
 > npm install
 ```
+4. Instalar la extensión de chrome [Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi) para ejecutar la aplicacion localmente el tu navegador.
+
+NOTA: CORS "Cross Origin Resource Sharing" Allows to you request any site with ajax from any source. Adds to response 'Allow-Control-Allow-Origin: *' header
+
+IMPORTANTE: agrega la direccion de la API en la extencion de CORS http://api.deezer.com/ y mantenerla habilitala durante las pruebas de desarrollo.
+
+<p>
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors.png" width="250" alt="cors">
+</p>
 
 ## Comandos comunes 
 
