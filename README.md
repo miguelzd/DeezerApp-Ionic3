@@ -5,7 +5,9 @@
 # DeezerApp - Ionic 3.1
 ----
 
-Aplicación demo de Música Ionic 3, que se conecta al API de Deezer y reproduce las playlist de los usuario.
+Aplicación demo de Música Ionic 3, que se conecta con el [API de Deezer](https://developers.deezer.com/api) y reproduce las playlists de los usuario.
+
+-https://developers.deezer.com/api
 
 Detalles de versión 
 
@@ -20,7 +22,7 @@ Detalles de versión
 
 
 ## Instalación 
-1. Teniendo instalado nodejs en la consola ejecutas
+1. Teniendo instalado nodejs, abra la terminal ejecute
 ```sh
 > npm install -g ionic cordova
 ```
@@ -28,7 +30,7 @@ Detalles de versión
 ```sh
 > git clone https://github.com/miguelzd/DeezerApp-Ionic3.git
 ```
-3. Luego debes moverte al directorio del proyecto e instalas todas las dependencias
+3. Luego debes moverte al directorio del proyecto e instalar las dependencias
 ```sh
 > cd DeezerApp-Ionic3
 > npm install
@@ -61,20 +63,20 @@ Detalles de versión
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-menu.png" width="150" alt="menu">
 </p>
 
-#### Users
+#### Profiles
 
 <p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-profiles.png" width="150" alt="profiles">
 </p>
 
 
-#### User Profile
+#### Playlists
 
 <p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-user-profile.png" width="150" alt="user-profile">
 </p>
 
-#### User Playlists
+#### Canciones
 
 <p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-playlist-1.png" width="150" alt="playlist-1">
@@ -111,5 +113,5 @@ Ionic is based on [Web Components](https://www.webcomponents.org/introduction) a
 
 
 <p align="center">
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/demo-Deezer-ionic.png" width="1280" alt="demo-Deezer-ionic">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/logo-ionic-angular.png" width="1280" alt="demo-Deezer-ionic">
 </p>
