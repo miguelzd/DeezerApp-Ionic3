@@ -43,7 +43,7 @@ IMPORTANTE: agrega la direccion de la API en la extencion de CORS http://api.dee
 
 <p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors.png" width="380" alt="cors">
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors-2.png" width="650" alt="cors">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors-2.png" width="750" alt="cors">
 </p>
 
 ## Comandos comunes 
