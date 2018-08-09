@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/demo-Deezer-ionic.png" width="1150" alt="demo-Deezer-ionic">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/demo-Deezer-ionic.png" width="1150" alt="demo-Deezer-ionic">
 </p>
 
 # DeezerApp - Ionic 3.1
@@ -52,54 +52,54 @@ Detalles de versión
 #### Home
 
 <p>
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-home.png" width="150" alt="home">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-home.png" width="150" alt="home">
 </p>
 
 #### Menu
 
 <p>
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-menu.png" width="150" alt="menu">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-menu.png" width="150" alt="menu">
 </p>
 
 #### Users
 
 <p>
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-profiles.png" width="150" alt="profiles">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-profiles.png" width="150" alt="profiles">
 </p>
 
 
 #### User Profile
 
 <p>
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-user-profile.png" width="150" alt="user-profile">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-user-profile.png" width="150" alt="user-profile">
 </p>
 
 #### User Playlists
 
 <p>
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-playlist-1.png" width="150" alt="playlist-1">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-playlist-1.png" width="150" alt="playlist-1">
 
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-playlist-2.png" width="150" alt="playlist-2">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-playlist-2.png" width="150" alt="playlist-2">
 
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-playlist-3.png" width="150" alt="playlist-3">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-playlist-3.png" width="150" alt="playlist-3">
 </p>
 
 #### Contact Form
 
 <p>
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-contact.png" width="150" alt="contact">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-contact.png" width="150" alt="contact">
 </p>
 
 #### About
 
 <p>
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-about.png" width="150" alt="about">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-about.png" width="150" alt="about">
 </p>
 
 #### Tablet - Responsive
 
 <p>
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/cap-tablet.png" width="300" alt="tablet">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-tablet.png" width="300" alt="tablet">
 </p>
 
 # About Ionic
@@ -111,5 +111,5 @@ Ionic is based on [Web Components](https://www.webcomponents.org/introduction) a
 
 
 <p align="center">
-<img src="http://miguelzdanovich.com/github/github/demo-deezerApp-ionic/demo-Deezer-ionic.png" width="1280" alt="demo-Deezer-ionic">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/demo-Deezer-ionic.png" width="1280" alt="demo-Deezer-ionic">
 </p>
