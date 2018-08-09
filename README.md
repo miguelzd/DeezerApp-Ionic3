@@ -113,5 +113,5 @@ Ionic is based on [Web Components](https://www.webcomponents.org/introduction) a
 
 
 <p align="center">
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/logo-ionic-angular.png" width="500" alt="demo-Deezer-ionic">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/logo-ionic-angular.png" width="300" alt="demo-Deezer-ionic">
 </p>
