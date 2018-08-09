@@ -43,7 +43,7 @@ IMPORTANTE: agrega la direccion de la API en la extencion de CORS http://api.dee
 
 <p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors.png" width="380" alt="cors">
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors-2.png" width="650" alt="cors">
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors-2.png" width="750" alt="cors">
 </p>
 
 ## Comandos comunes 
@@ -61,32 +61,15 @@ IMPORTANTE: agrega la direccion de la API en la extencion de CORS http://api.dee
 
 ## Screenshots
 
-#### Home
-
+#### Mobile
 <p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-home.png" width="150" alt="home">
-</p>
 
-#### Menu
-
-<p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-menu.png" width="150" alt="menu">
-</p>
 
-#### Profiles
-
-<p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-profiles.png" width="150" alt="profiles">
 </p>
 
-
-#### Playlists
-
-<p>
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-user-profile.png" width="150" alt="user-profile">
-</p>
-
-#### Canciones
 
 <p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-playlist-1.png" width="150" alt="playlist-1">
@@ -96,19 +79,16 @@ IMPORTANTE: agrega la direccion de la API en la extencion de CORS http://api.dee
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-playlist-3.png" width="150" alt="playlist-3">
 </p>
 
-#### Contact Form
-
 <p>
+<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-user-profile.png" width="150" alt="user-profile">
+
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-contact.png" width="150" alt="contact">
-</p>
 
-#### About
-
-<p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-about.png" width="150" alt="about">
 </p>
 
-#### Tablet - Responsive
+
+#### Tablet
 
 <p>
 <img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-tablet.png" width="300" alt="tablet">
