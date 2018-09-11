@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/demo-Deezer-ionic.png" width="1150" alt="demo-Deezer-ionic">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/demo-Deezer-ionic.png" width="1150" alt="demo-Deezer-ionic">
 </p>
 
 # DeezerApp - Ionic 3.1
@@ -42,8 +42,8 @@ NOTA: CORS "Cross Origin Resource Sharing" Allows to you request any site with a
 IMPORTANTE: agrega la direccion de la API en la extencion de CORS http://api.deezer.com/ y mantenerla habilitala durante las pruebas de desarrollo.
 
 <p>
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors.png" width="380" alt="cors">
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-cors-2.png" width="750" alt="cors">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-cors.png" width="380" alt="cors">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-cors-2.png" width="750" alt="cors">
 </p>
 
 ## Comandos comunes 
@@ -63,35 +63,35 @@ IMPORTANTE: agrega la direccion de la API en la extencion de CORS http://api.dee
 
 #### Mobile
 <p>
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-home.png" width="150" alt="home">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-home.png" width="150" alt="home">
 
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-menu.png" width="150" alt="menu">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-menu.png" width="150" alt="menu">
 
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-profiles.png" width="150" alt="profiles">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-profiles.png" width="150" alt="profiles">
 </p>
 
 
 <p>
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-playlist-1.png" width="150" alt="playlist-1">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-playlist-1.png" width="150" alt="playlist-1">
 
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-playlist-2.png" width="150" alt="playlist-2">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-playlist-2.png" width="150" alt="playlist-2">
 
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-playlist-3.png" width="150" alt="playlist-3">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-playlist-3.png" width="150" alt="playlist-3">
 </p>
 
 <p>
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-user-profile.png" width="150" alt="user-profile">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-user-profile.png" width="150" alt="user-profile">
 
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-contact.png" width="150" alt="contact">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-contact.png" width="150" alt="contact">
 
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-about.png" width="150" alt="about">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-about.png" width="150" alt="about">
 </p>
 
 
 #### Tablet
 
 <p>
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/cap-tablet.png" width="300" alt="tablet">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/cap-tablet.png" width="300" alt="tablet">
 </p>
 
 # About Ionic
@@ -103,5 +103,5 @@ Ionic is based on [Web Components](https://www.webcomponents.org/introduction) a
 
 
 <p align="center">
-<img src="http://miguelzdanovich.com/github/demo-deezerApp-ionic/logo-ionic-angular.png" width="300" alt="demo-Deezer-ionic">
+<img src="http://l3000446.ferozo.com/github/demo-deezerApp-ionic/logo-ionic-angular.png" width="300" alt="demo-Deezer-ionic">
 </p>
